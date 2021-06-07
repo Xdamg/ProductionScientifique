@@ -12,7 +12,7 @@ Le but de ce projet est d'informatiser la recherche scientifique
 * 	[MySQL Workbench](https://www.mysql.com/products/workbench/)  est un outil visuel de conception de bases de données qui intègre le développement, l'administration, la conception, la création et la maintenance de bases de données SQL dans un environnement de développement intégré unique pour le système de base de données MySQL.
 
 ## :page_with_curl: Les pages :
-### :closed_book:	 Login : 
+### :beginner:	 Login : 
 ![alt text](https://github.com/Xdamg/ProductionScientifique/blob/c069685f988f8f8aaea310d9ab2077dcecb47016/img/login.PNG)
 ### :closed_book:	 Admin Dashboard(Liste des Professeurs) : 
 ![alt text](https://github.com/Xdamg/ProductionScientifique/blob/51ac3e7bdd98d398dec84a5a26d1252b9fdfdfed/img/Liste%20des%20professeurs.PNG)
