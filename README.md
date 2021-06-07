@@ -26,10 +26,10 @@ Le but de ce projet est d'informatiser la recherche scientifique
 ![alt text](https://github.com/Xdamg/ProductionScientifique/blob/6c8f5f99e69df5edc4e95b938e934901d8673bb8/img/Ajouter%20une%20equipe%20oui.PNG)
 ### :beginner: Admin Dashboard(Ajouter une Equipe) : 
 ![alt text](https://github.com/Xdamg/ProductionScientifique/blob/6c8f5f99e69df5edc4e95b938e934901d8673bb8/img/Ajouter%20une%20equipe.PNG)
-### :beginner: Admin Dashboard(Ajouter une Equipe avec un Labo) : 
+### :beginner: Admin Dashboard(Ajouter une Equipe avec un Nouveau Labo) : 
 ![alt text](https://github.com/Xdamg/ProductionScientifique/blob/6c8f5f99e69df5edc4e95b938e934901d8673bb8/img/Ajouter%20une%20equipe%20oui.PNG)
-### :beginner: Admin Dashboard(Ajouter une Equipe avec un Labo) : 
-![alt text](https://github.com/Xdamg/ProductionScientifique/blob/6c8f5f99e69df5edc4e95b938e934901d8673bb8/img/Ajouter%20une%20equipe%20oui.PNG)
+### :beginner: Admin Dashboard(Ajouter une Equipe avec un Labo Dèja Existant) : 
+![alt text](https://github.com/Xdamg/ProductionScientifique/blob/6c8f5f99e69df5edc4e95b938e934901d8673bb8/img/Ajouter%20une%20equipe%20oui%20existant.PNG)
 
 
  
