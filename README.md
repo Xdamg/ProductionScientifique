@@ -14,6 +14,8 @@ Le but de ce projet est d'informatiser la recherche scientifique
 ## :page_with_curl: Les pages :
 ### :beginner: Login : 
 ![alt text](https://github.com/Xdamg/ProductionScientifique/blob/c069685f988f8f8aaea310d9ab2077dcecb47016/img/login.PNG)
-### :beginner: Admin Dashboard : 
+### :beginner: Admin Dashboard(Liste des Professeurs) : 
 ![alt text](https://github.com/Xdamg/ProductionScientifique/blob/51ac3e7bdd98d398dec84a5a26d1252b9fdfdfed/img/Liste%20des%20professeurs.PNG)
+### :beginner: Admin Dashboard(Liste des Doctorants) : 
+![alt text](https://github.com/Xdamg/ProductionScientifique/blob/47c7926fb0f9a90b97f190cf7ec9e028ae068bb0/img/Modifier%20doctorant.PNG)
  
