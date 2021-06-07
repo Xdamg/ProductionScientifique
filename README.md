@@ -23,8 +23,6 @@ Le but de ce projet est d'informatiser la recherche scientifique
 ### :beginner: Admin Dashboard(Modifier Doctorant) : 
 ![alt text](https://github.com/Xdamg/ProductionScientifique/blob/9a9f11700316a25d3882c9305c01334d3c76d239/img/Modifier%20doctorant.PNG)
 ### :beginner: Admin Dashboard(Ajouter une Equipe) : 
-![alt text](https://github.com/Xdamg/ProductionScientifique/blob/6c8f5f99e69df5edc4e95b938e934901d8673bb8/img/Ajouter%20une%20equipe%20oui.PNG)
-### :beginner: Admin Dashboard(Ajouter une Equipe) : 
 ![alt text](https://github.com/Xdamg/ProductionScientifique/blob/6c8f5f99e69df5edc4e95b938e934901d8673bb8/img/Ajouter%20une%20equipe.PNG)
 ### :beginner: Admin Dashboard(Ajouter une Equipe avec un Nouveau Labo) : 
 ![alt text](https://github.com/Xdamg/ProductionScientifique/blob/6c8f5f99e69df5edc4e95b938e934901d8673bb8/img/Ajouter%20une%20equipe%20oui.PNG)
